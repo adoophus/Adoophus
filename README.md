@@ -7,4 +7,6 @@ I have completed a Bachelor of Information Systems, alongside that majoring in N
 - 🌱 Currently learning web development, specifically in the area of APIs.
 - ⚡ Worked on modding and emulation projects across Garry's Mod, World of Warcraft and Mount & Blade: Bannerlord.
 
+Projects: OCEAdmin, Sword & Musket, Terra Nova
+
  😄 Discord: Adolphus#0001.
