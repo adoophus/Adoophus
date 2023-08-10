@@ -1,5 +1,7 @@
 ### Welcome to my profile 👋
 
+Freelance Programmer
+
 I have completed a Bachelor of Information Systems, alongside that majoring in Networking.
 
 - 💬 10+ years personal game development experience with Unity
@@ -9,4 +11,4 @@ I have completed a Bachelor of Information Systems, alongside that majoring in N
 
 Projects: OCEAdmin, Sword & Musket, Terra Nova
 
- 😄 Discord: Adolphus#0001.
+ 😄 Discord: Adolphus
