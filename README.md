@@ -1,7 +1,5 @@
 ### Welcome to my profile 👋
 
-Freelance Programmer
-
 - 💬 10+ years indie game development experience with Unity
 - 📫 8+ years experience across C#, JavaScript, Lua and PHP.
 - 🌱 Currently learning web development, specifically WebSocket apis and web technologies such as Next.js, React and .NET Core
